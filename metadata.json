@@ -1,0 +1,12 @@
+{
+  "name": "Remix Remix Remix Remix UniCommute",
+  "description": "University Transit \u0026 Smart Timetable Hub featuring role-specific logins (Student OTP+Enrollment, Faculty OTP, Bus Driver Route), ERP timetable sync with leave-by-this-time departure alerts, live GPS bus radar, 300m traffic consensus engine, and carpool INR fare splitting with SOS safety dispatch.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
